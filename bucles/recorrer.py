@@ -1,5 +1,5 @@
 def run():
-    # nombre = input('EScribe tu nombre: ')
+    # nombre = input('Escribe tu nombre: ')
     # for letra in nombre:
     #     print(letra)
 
